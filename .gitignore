@@ -147,6 +147,9 @@ dmypy.json
 
 # папки со статикой и медиа
 media/
+collected_static/
+backend/collected_static/
+frontend/build/
 
 # Others
 node_modules
